@@ -1,5 +1,5 @@
 {
-  "name": "express-oauth-server",
+  "name": "@compwright/express-oauth-server",
   "version": "2.0.0",
   "description": "OAuth provider for express",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/seegno/express-oauth-server"
+    "url": "git://github.com/compwright/express-oauth-server"
   },
   "keywords": [
     "express",
@@ -20,7 +20,7 @@
     "name": "Nuno Sousa",
     "email": "nfs@seegno.com"
   },
-  "license": "SEE LICENSE IN LICENSE",
+  "license": "MIT",
   "dependencies": {
     "bluebird": "^3.0.5",
     "express": "^4.13.3",
